@@ -1,0 +1,22 @@
+@media only screen and (max-width:600px) {
+    ul.topnav li {
+        float: none;
+        
+    }
+    ul a:hover{
+        background-color: pink;
+        border: none;
+       }
+.cwp {
+    padding-top:80px ;
+}
+
+
+
+
+
+
+
+
+
+}
